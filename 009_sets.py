@@ -26,4 +26,4 @@ print(set_a.union(set_b))  # Output: {1, 2, 3, 4, 5}
 print(set_a.intersection(set_b))  # Output: {3}
 print(set_a.difference(set_b))  # Output: {1, 2}
 
-# Sets are handy in scenarios involving data analysis, database operations or algorithmic problem-solving
+# Sets are handy in scenarios involving data analysis, database operations or algorithmic problem-solving.
